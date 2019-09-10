@@ -26,3 +26,6 @@
 ## Solve a conflict
 
 ## Pull
+
+# Reset
+ - If you had a reset, you have to do 'force push'
