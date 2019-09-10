@@ -12,3 +12,8 @@
 ## Branch
 
 - Branch : When You want to add or change file with keeping master(branch), You can make a branch that has independency from the master (branch). Developers names branchs like '..version'.
+
+
+## Merge
+
+- Merge : If you have a branch, You can merge the branch to master branch. When it's done, you're able to delete the branch.
