@@ -20,3 +20,5 @@
 - Fast-Forward : It means very normal merge. There is no a conflict between master branch and a branch that is going to be merged.
 
 ## Pull
+
+## Solve a conflict
