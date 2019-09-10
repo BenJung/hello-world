@@ -22,4 +22,7 @@
 ## Pull
 
 - Pull: If there is a commit in a master bracn from github( collaboration or using workstations), You can fetch it and merge the branch to a branch from local git.
+
 ## Solve a conflict
+
+## Pull
