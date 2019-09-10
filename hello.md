@@ -17,3 +17,4 @@
 ## Merge
 
 - Merge : If you have a branch, You can merge the branch to master branch. When it's done, you're able to delete the branch.
+- Fast-Forward : It means very normal merge. There is no a conflict between master branch and a branch that is going to be merged.
