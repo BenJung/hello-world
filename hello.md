@@ -20,3 +20,5 @@
 - Fast-Forward : It means very normal merge. There is no a conflict between master branch and a branch that is going to be merged.
 
 ## Pull
+
+- Pull: If there is a commit in a master bracn from github( collaboration or using workstations), You can fetch it and merge the branch to a branch from local git.
