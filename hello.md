@@ -29,8 +29,7 @@
 
 # Reset (Hard Reset)
  - If you had a reset, you have to do 'force push'
- - It's not recomended.
 
 # Reset Alternative 1 : Make a branch and reset
- - Pros : It's esay to set
+ - Pros : It's esay to set / the content is not going to be delelted unlike reset function.
  - cons : The tree would be a little bit massy. 
