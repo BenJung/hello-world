@@ -37,5 +37,3 @@
 # Reset Alternative 2 : Using Revert
  - Pros : It's very solid method and the content is going to remain in the git tree.
  - Cons : It'll probably make a conflict.
-
- # Nothing!
