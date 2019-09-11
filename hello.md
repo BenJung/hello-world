@@ -32,4 +32,8 @@
 
 # Reset Alternative 1 : Make a branch and reset
  - Pros : It's esay to set / the content is not going to be delelted unlike reset function.
- - cons : The tree would be a little bit massy. 
+ - Cons : The tree would be a little bit massy. 
+
+# Reset Alternative 2 : Using Revert
+ - Pros : It's very solid method and the content is going to remain in the git tree.
+ - Cons : It'll probably make a conflict.
